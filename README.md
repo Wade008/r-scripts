@@ -1,2 +1,2 @@
 # r-scripts
-Some usefual R scripts to access ABS data.
+Some useful R scripts to access ABS data.
